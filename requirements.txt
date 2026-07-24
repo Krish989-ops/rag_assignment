@@ -1,0 +1,10 @@
+streamlit
+numpy
+cohere
+sentence-transformers
+scikit-learn
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+python-dotenv
